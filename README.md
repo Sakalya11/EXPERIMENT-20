@@ -14,7 +14,7 @@ Insertion Sort is a simple comparison-based algorithm. It builds the final sorte
 3. Bubble Sort :
 Bubble Sort is a simple comparison-based algorithm where adjacent elements are compared, and if they are in the wrong order, they are swapped. This process repeats until no more swaps are needed, meaning the array is sorted.
 
-# Code performed in Lab :
+# Code:
 Experiment 20(a) 
 ```
 // Sorting Algorithm -> used to rearrange a given array or list of elements according to a comparison operator on the element 
